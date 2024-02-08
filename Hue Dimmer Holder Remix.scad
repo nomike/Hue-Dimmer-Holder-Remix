@@ -8,7 +8,7 @@ union() {
             }
 
             // top part
-            translate([0, 0, 8]) scale([1, 1, 5]) translate([0,0,-7.05]) intersection() {
+            translate([0, 0, 8]) scale([1, 1, 2]) translate([0,0,-7.05]) intersection() {
                 import("Hue Dimmer Holder.stl");
                 color("red") translate([-50, -74, 7.05]) cube([100, 150, 1]);
             }
