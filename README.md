@@ -10,6 +10,10 @@ The original wall mount is relying on the wall boxes to be mounted absolutely le
 
 The script directly imports the original STL file and manipulates the object within, so I included it in the repository. The original file is licensed under the Creative Commons 4.0 - Attribution - NonCommercial license and can be downloaded via the link above.
 
+## Thingiverse
+
+https://www.thingiverse.com/thing:6528330
+
 ## GitHub
 
 https://github.com/nomike/Hue-Dimmer-Holder-Remix
