@@ -8,10 +8,19 @@ The original wall mount is relying on the wall boxes to be mounted absolutely le
 
 The script directly imports the original STL file and manipulates the object within, so I included it in the repository. The original file is licensed under the Creative Commons 4.0 - Attribution - NonCommercial license and can be downloaded via the link above.
 
-## Thingiverse
+#### Magnets
+
+You can reuse the magnets from the original holder (a small flat-head screwdriver worked OK to pry them out).
+I bought new ones (I used 15x2mm magnets as in the original holders) so I could double them to increase holding force.
+
+I have since optimized the design, removing the gap between the remote and the magnets and made it harder for the remots to accidentally slide out of the holder. So this might no longer be necessary. I have however not tested the new design with a single set of magnets.
+
+The orientation of the magnets doesn't seem to matter at all.
+
+#### Thingiverse
 
 <https://www.thingiverse.com/thing:6528330>
 
-## GitHub
+#### GitHub
 
 <https://github.com/nomike/Hue-Dimmer-Holder-Remix>
