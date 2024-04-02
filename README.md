@@ -1,6 +1,4 @@
-# Hue Dimmer Holder Remix
-
-A remix of https://www.printables.com/model/148770-hue-dimmer-holder.
+A remix of <https://www.printables.com/model/148770-hue-dimmer-holder>.
 
 The original design had some issues for me: The magnets didn´t hold the dimmer in place strong enough and the slope in the insert made the dimmer slide out of the holder when you operate it.
 
@@ -12,8 +10,8 @@ The script directly imports the original STL file and manipulates the object wit
 
 ## Thingiverse
 
-https://www.thingiverse.com/thing:6528330
+<https://www.thingiverse.com/thing:6528330>
 
 ## GitHub
 
-https://github.com/nomike/Hue-Dimmer-Holder-Remix
+<https://github.com/nomike/Hue-Dimmer-Holder-Remix>
