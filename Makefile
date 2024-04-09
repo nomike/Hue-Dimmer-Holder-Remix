@@ -1,7 +1,15 @@
-.PHONY: upload
-hue_dimmer_holder_remix.stl: hue_dimmer_holder_remix.scad
-	openscad -o $@ $<
+# Output directory for generated STL files
+OUTPUT_DIR = output
 
-clean: 
-	rm -f hue_dimmer_holder_remix.stl
-	
+.PHONY: all generate_stls clean
+
+all: $(OUTPUT_DIR) generate_stls
+
+$(OUTPUT_DIR):
+	mkdir -p $@
+
+generate_stls:
+	openscad_stl_file_generator/generate_stls --output-dir="$(OUTPUT_DIR)"
+
+clean:
+	rm -rf $(OUTPUT_DIR)
