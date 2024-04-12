@@ -23,4 +23,4 @@ The orientation of the magnets doesn't seem to matter at all.
 
 #### GitHub
 
-<https://github.com/nomike/Hue-Dimmer-Holder-Remix>
+<https://github.com/nomike/hue-dimmer-holder-remix>
